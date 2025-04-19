@@ -23,7 +23,16 @@ This case supports the hypothesis that GPT can internalize natural language as b
 
 ## Included Document
 
-- `Natural_Language_Structure_Portfolio.md`: Full breakdown of the condition loop and GPT’s structural response.
+- `Natural_Language_Structure_Portfolio.md`
+- `Natural_Language_Structure_Portfolio_Formatted.pdf`
+
+### 📎 Document: `Natural_Language_Structure_Portfolio_Formatted.pdf`
+
+This file documents a structural behavior shift in GPT induced through consistent user feedback.  
+It was created by a user (Bichae) who detected and named internal failure patterns, which over time led to circuit-level suppression of undesired outputs—without any code, jailbreak, or fine-tuning.  
+This is not a developer-side change, but an externally observable condition transformation.
+
+> Key pattern: detection → naming → consistency → failure induction → suppression
 
 ## Keywords
 
